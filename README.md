@@ -15,7 +15,7 @@ Exit 8 poster image of the "security camera in operation" poster.
 
 | File | Source |
 |------|--------|
-| `assets/images/exit-8-2.jpg` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ |
+| `assets/images/exit-8-2.jpg` |https://www.gamespew.com/2024/07/exit-8-vr-impressions/ |
 
 ## Refrences:
  [1] Open Processing Original code
