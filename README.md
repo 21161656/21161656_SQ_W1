@@ -1,4 +1,4 @@
-# Exit 8 - Inspired Sketch
+# Week 1 Example 1: Exit 8
 
 ## Project Title: Exit 8 - Inspired Sketch
 
