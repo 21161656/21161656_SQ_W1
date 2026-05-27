@@ -15,7 +15,7 @@ Exit 8 poster image of the "security camera in operation" poster.
 
 | File | Source |
 |------|--------|
-| `assets/images/exit-8-2.jpg` |https://www.gamespew.com/2024/07/exit-8-vr-impressions/ |
+| `assets/images/exit-8-2.jpg` |https://www.gamespew.com/2024/07/exit-8-vr-impressions/ [1]|
 
 ## Refrences:
  [1] Open Processing Original code
