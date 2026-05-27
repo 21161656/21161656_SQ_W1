@@ -11,6 +11,12 @@ I used p5.js from both Open Processing and Visual Studio Code to create this ske
 ## Assets:
 Exit 8 poster image of the "security camera in operation" poster.
 
+ ## Assets
+
+| File | Source |
+|------|--------|
+| `assets/images/exit-8-2.jpg` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ |
+
 ## Refrences:
- https://openprocessing.org/@CS105ak2ilic/2942122 
- This is the original sketch I made during class.
+ [1] Open Processing Original code
+ https://openprocessing.org/@CS105ak2ilic/2942122
